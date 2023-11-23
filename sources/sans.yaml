@@ -1,0 +1,8 @@
+sources:
+  - RedditSans.glyphs
+  - RedditSansItalics.glyphs
+familyName: Reddit Sans
+outputDir: ../fonts/sans
+axisOrder:
+  - wght
+  - ital
